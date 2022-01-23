@@ -1,0 +1,20 @@
+body {margin: 0;}
+
+.rain { background: #818181;
+height: 300px;
+width: 700px;
+margin: 80px 80px 10px 10px;
+box-shadow: #d6b893 10px 10px 10px 10px;
+}
+.newa { background: white;
+overflow: hidden;
+height: 205px;
+width: 300px;
+    padding: 5px 5px 5px 15px ;
+    margin: 10px 30px 30px 10px;
+
+    border-left-color: #fa0303;
+    border-left-style: solid;
+    border-left-width: 7px;
+
+  font-weigh: bolder 400;}
