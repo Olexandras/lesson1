@@ -1,0 +1,29 @@
+body {margin: 0;}
+.red  {background: #8a2928;
+    color: white;
+    text-align: center;
+    margin: 20px 5px 20px 5px;
+
+}
+.silver {background: #c0c0c0;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px 5px 0px 5px ;
+}
+.blue {background: #6496ec;
+    margin: 0px 5px 0px 5px ;
+    box-sizing: border-box;
+    height: 100px;
+padding-top: 40px;}
+.green {background: #6cba68;
+    height: 200px;
+    width: 200px;
+    margin: 0px 20px 0px 5px;
+    }
+.violet {background: #8987ac;
+    height: 200px;
+    width: 200px;
+    margin: 0px 0px 0px 5px;
+    border-radius: 20px;
+}
+
