@@ -1,24 +1,27 @@
-.a { height: 300px;
-width: 150px;
+.a { height: 230px;
+width: 155px;
 background: blue;}
 .b { background: rebeccapurple;
-height: 300px;
-width: 150px;}
+height: 230px;
+width: 155px;}
 #ab { display: flex;
+    width: 320px;
 justify-content: space-between;
-margin-bottom: 25px;}
-.c {height: 150px;
+margin-bottom: 10px;}
+.c {height: 130px;
+    width: 320px;
 background: yellow;}
-.d {height: 100px;
+.d {height: 120px;
 width: 100px;
 background: bisque;}
-.e {height: 100px;
+.e {height: 120px;
 width: 100px;
 background: blueviolet;}
-.f {height: 100px;
+.f {height: 120px;
 width: 100px;
 background: brown;}
 #def { display: flex;
+    width: 320px;
 justify-content: space-between;
-margin-top: 25px;}
+margin-top: 10px;}
 
