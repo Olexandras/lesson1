@@ -1,0 +1,24 @@
+.a { height: 300px;
+width: 150px;
+background: blue;}
+.b { background: rebeccapurple;
+height: 300px;
+width: 150px;}
+#ab { display: flex;
+justify-content: space-between;
+margin-bottom: 25px;}
+.c {height: 150px;
+background: yellow;}
+.d {height: 100px;
+width: 100px;
+background: bisque;}
+.e {height: 100px;
+width: 100px;
+background: blueviolet;}
+.f {height: 100px;
+width: 100px;
+background: brown;}
+#def { display: flex;
+justify-content: space-between;
+margin-top: 25px;}
+
