@@ -1,0 +1,13 @@
+.h190 {height: 190px;}
+.h400 {height: 400px;}
+.w840 {width: 840px;}
+.w190 {width: 190px;}
+.w630 {width: 630px;}
+.grey {background: silver;}
+.m-b-20 {margin-bottom: 20px;}
+.bord {border: 3px solid grey;}
+.box {box-sizing: border-box;}
+.flex {display: flex;}
+.text {text-align: center;}
+.j-cont {justify-content: space-between;}
+.colum { flex-direction: column;}
