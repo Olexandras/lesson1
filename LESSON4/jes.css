@@ -1,0 +1,43 @@
+.h125 {
+    height: 125px;
+}
+
+.h250 {
+    height: 250px;
+}
+
+.w350 {
+    width: 350px;
+}
+
+.w100 {
+    width: 100px;
+}
+
+.blue {
+    background: blue;
+}
+
+.m-b-20 {
+    margin-bottom: 20px;
+}
+
+.box {
+    box-sizing: border-box;
+}
+
+.bord {
+    border: 1px solid black;
+}
+
+.text {
+    text-align: center;
+}
+
+.just-cont {
+    justify-content: space-between;
+}
+
+.flex {
+    display: flex
+}
