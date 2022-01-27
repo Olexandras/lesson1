@@ -1,0 +1,67 @@
+.h100 {
+    height: 100px;
+}
+
+.w390 {
+    width: 390px;
+}
+
+.h145 {
+    height: 145px;
+}
+
+.h300 {
+    height: 300px;
+}
+
+.b-g-blue {
+    background: cyan;
+}
+
+.w125 {
+    width: 125px;
+}
+
+.flex {
+    display: flex;
+}
+
+.text-al {
+    text-align: center;
+}
+
+.bord {
+    border: 5px solid silver;
+}
+
+.box {
+    box-sizing: border-box;
+}
+
+.jus-cont {
+    justify-content: space-between;
+}
+
+.b-g-green {
+    background: #e6f7b1;
+}
+
+.b-g-rose {
+    background: #ffb7ff;
+}
+
+.marg-b-15 {
+    margin-bottom: 15px;
+}
+
+.w265 {
+    width: 250px;
+}
+
+.colum {
+    flex-direction: column;
+}
+
+.b-g-bisgue {
+    background: bisque;
+}
