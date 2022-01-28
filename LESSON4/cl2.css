@@ -1,0 +1,55 @@
+.h190 {
+    height: 190px;
+}
+
+.h395 {
+    height: 395px;
+}
+
+.w805 {
+    width: 805px;
+}
+
+.w600 {
+    width: 600px;
+}
+
+.w190 {
+    width: 190px;
+}
+
+.b-g {
+    background: silver;
+}
+
+.m-b {
+    margin-bottom: 15px;
+}
+
+.flex {
+    display: flex;
+}
+
+.j-c {
+    justify-content: space-between;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.marg-15 {
+    margin: 0 15px 0 15px;
+}
+
+.bord {
+    border: 1px solid grey;
+}
+
+.box {
+    box-sizing: border-box;
+}
+
+.text {
+    text-align: center;
+}
